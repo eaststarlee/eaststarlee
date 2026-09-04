@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm 이동규 (Donggyu Lee)</h1>
-<h3 align="center">Game Programmer who thinks in structures, not just fixes bugs</h3>
+<h3 align="center">AI-Native Game Programmer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nexon-Nextorial%202026-FF3D00?style=for-the-badge" alt="Nextorial 2026"/>
@@ -12,20 +12,8 @@
 - 게임 개발을 시작한 지 오래되지 않았지만, 게임과 개발 자체에 진심입니다.
 - 눈앞의 에러보다 **문제의 구조와 방향성**을 먼저 봅니다.
 - 학습과 문제 구조화 과정에 AI를 적극적으로 활용하는 **실무형 AI 네이티브 개발자**입니다.
-  - 막히는 문제를 그대로 AI에게 넘기지 않고, 먼저 문제를 쪼개고 가설을 세운 뒤 AI와 함께 검증합니다.
-  - AI가 제안한 코드를 그대로 쓰지 않고, 구조·성능·가독성 관점에서 리뷰하고 다시 씁니다.
-
----
-
-### 👨‍💻 Profile
-
-| 항목 | 내용 |
-|---|---|
-| 이름 | 이동규 |
-| 나이 | 만 23세 (2002.12.13) |
-| 병역 | 해병대 1사단 만기전역 |
-| GitHub | [@eaststarlee](https://github.com/eaststarlee) |
-| Email | leeygpv@gmail.com |
+  - 막히는 문제를 그대로 AI에게 넘기지 않고, 문제를 조건과함께 상세히 인식시킨 후 AI와 함께 구조를 설계합니다.
+  - AI가 제안한 구조 & 코드를 그대로 쓰지 않고, 구조·성능·가독성 관점에서 끊임없이 검증합니다.
 
 ---
 
@@ -79,13 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eaststarlee&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaststarlee&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaststarlee&theme=radical&hide_border=true" height="165"/>
-</p>
+### 📞 Contact
+- GitHub : [@eaststarlee](https://github.com/eaststarlee) 
+- Email : leeygpv@gmail.com
+- phone : 010-6331-0176
