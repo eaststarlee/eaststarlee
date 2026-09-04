@@ -51,6 +51,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Design**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Audio**
@@ -61,13 +64,13 @@
 
 ### 📌 Featured Project
 
-> #### Ink Rush
+> #### Ink Rush | `Unity` `C#`
 > 졸업 게임 프로젝트. [3D 1인칭 FPS / Unity / 팀장(기획&개발)]
-> `Unity` `C#` — [Repo 링크 넣기]
+> [Repo 링크 넣기]
 
-> > #### Mado
+> > #### Mado | `Unity` `C#`
 > 인디게임 프로젝트. [2D 매트로배니아 / Unity / 팀장(기획&개발)]
-> `Unity` `C#` — [Repo 링크 넣기]
+> [Repo 링크 넣기]
 
 ---
 
