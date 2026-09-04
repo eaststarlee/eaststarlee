@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm 이동규 (Donggyu Lee)</h1>
+<h1 align="center">Lee Dong Gyu | Game Client Developer </h1>
 <h3 align="center">AI-Native Game Programmer</h3>
 
 <p align="center">
@@ -20,29 +20,21 @@
 ### 🎓 Education
 
 **한양대학교 ERICA, ICT융합학부** 학사 (2021.03 ~ 2027.02 졸업예정)
-- 게임 개발 트랙 이수
-- 사운드 엔지니어링 트랙 이수
+- **게임 개발** 트랙 이수
+- **사운드 엔지니어링** 트랙 이수
 
 ---
 
 ### 💼 Experience
 
-**(주)이앤오즈 · Unity 콘텐츠개발부서** — 현장실습 인턴 (2026.09 ~ 2026.12)
+**(주)이앤오즈 ·기업부설연구소 _ Unity 콘텐츠개발팀** 
+— 현장실습 인턴 (2026.09 ~ 2026.12)
 
 ---
 
 ### 🏆 Awards
 
-- 🥇 창의캡스톤 디자인 경진대회 **대상(1위)** 수상 (2026.04)
-
----
-
-### 📌 Featured Project
-
-> #### Ink Rush
-> 졸업 게임 프로젝트. (여기에 한 줄 요약 — 장르 / 사용 엔진 / 본인 담당 파트를 넣으면 채용 담당자가 3초 안에 파악할 수 있습니다.)
->
-> `Unity` `C#` — [Repo 링크 넣기]
+- 🥇 창의캡스톤 디자인 경진대회 **대상(1위)** 수상 [ 2026.04 ]
 
 ---
 
@@ -52,7 +44,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Co-work**
 
@@ -64,6 +55,18 @@
 **Audio**
 
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-CE1D1D?style=for-the-badge&logo=flstudio&logoColor=white)
+
+---
+
+### 📌 Featured Project
+
+> #### Ink Rush
+> 졸업 게임 프로젝트. [3D 1인칭 FPS / Unity / 팀장(기획&개발)]
+> `Unity` `C#` — [Repo 링크 넣기]
+
+> > #### Mado
+> 인디게임 프로젝트. [2D 매트로배니아 / Unity / 팀장(기획&개발)]
+> `Unity` `C#` — [Repo 링크 넣기]
 
 ---
 
