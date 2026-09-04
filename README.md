@@ -1,11 +1,5 @@
-<h1 align="center">Lee Dong Gyu | Game Client Developer </h1>
+<h1 align="center">게임 클라이언트 개발자 | 이동규</h1>
 <h2 align="center">AI-Native Game Programmer</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nexon-Nextorial%202026-FF3D00?style=for-the-badge" alt="Nextorial 2026"/>
-</p>
-
----
 
 ### 🎮️ About Me
 
