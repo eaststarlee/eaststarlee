@@ -1,7 +1,7 @@
 <h1 align="center">게임 클라이언트 개발자 | 이동규</h1>
 <h2 align="center">AI-Native Game Programmer</h2>
 
-### 🎮️ About Me
+### 📌 About Me
 
 - 게임 개발을 시작한 지 오래되지 않았지만, 게임과 개발 자체에 진심입니다.
 - 눈앞의 에러보다 **문제의 구조와 방향성**을 먼저 봅니다.
@@ -56,14 +56,14 @@
 
 ---
 
-### 📌 Featured Project
+### 🎮️ Main Project
 
-> #### Ink Rush | `Unity` `C#`
-> 졸업 게임 프로젝트. [3D 1인칭 FPS / Unity / 팀장(기획&개발)]
+> #### Ink Rush
+> `Unity` `C#` `1인칭 FPS ` `졸업프로젝트` `개발-4인` `팀장(기획/개발)` 
 > [Repo 링크 넣기]
 
-> > #### Mado | `Unity` `C#`
-> 인디게임 프로젝트. [2D 매트로배니아 / Unity / 팀장(기획&개발)]
+> > #### Mado
+> `Unity` `C#` `2D 매트로배니아 ` `인디게임 프로젝트` `개발-1인` `팀장(기획/개발)` 
 > [Repo 링크 넣기]
 
 ---
