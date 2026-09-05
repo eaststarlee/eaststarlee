@@ -55,18 +55,6 @@
 
 ---
 
-### 🎮️ Main Project
-
-> #### Ink Rush
-> `Unity` `C#` `1인칭 FPS ` `졸업프로젝트` `개발-4인` `팀장(기획/개발)` 
-> [Repo 링크 넣기]
-
-> > #### Mado
-> `Unity` `C#` `2D 매트로배니아 ` `인디게임 프로젝트` `개발-1인` `팀장(기획/개발)` 
-> [Repo 링크 넣기]
-
----
-
 ### 📞 Contact
 - GitHub : [@eaststarlee](https://github.com/eaststarlee) 
 - Email : leeygpv@gmail.com
