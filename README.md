@@ -55,6 +55,16 @@
 
 ---
 
+### 🚀 Projects
+
+#### 🎮 [INK Rush](https://github.com/eaststarlee/Game_Capstone)
+> **창의캡스톤 디자인 경진대회 대상(1위) 수상작** (2026.04)
+
+#### ⚔️ [Mado](https://github.com/eaststarlee/Mado)
+> **2D 매트로배니아 게임 프로젝트** (진행 중)
+
+---
+
 ### 📞 Contact
 - GitHub : [@eaststarlee](https://github.com/eaststarlee) 
 - Email : leeygpv@gmail.com
