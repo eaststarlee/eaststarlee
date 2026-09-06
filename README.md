@@ -58,11 +58,22 @@
 ### 🚀 Projects
 
 #### 🎮 [INK Rush](https://github.com/eaststarlee/Game_Capstone)
-> **창의캡스톤 디자인 경진대회 대상(1위) 수상작** (2026.04)
+> **창의캡스톤 디자인 경진대회 대상(1위) 수상** (2026.04)
 
 #### ⚔️ [Mado](https://github.com/eaststarlee/Mado)
-> **2D 매트로배니아 게임 프로젝트** (진행 중)
+> **2D 매트로배니아 인디게임 프로젝트** (진행 중)
 
+#### 🧱 [Block Breaker](https://github.com/eaststarlee/Block)
+> **개인프로젝트** (완료)
+
+#### 🧑‍🚀 [Space Tycoon](https://github.com/eaststarlee/Space-Tycoon)
+> **팀 프로젝트** (완료)
+
+#### 🌼 [Ionia Agapi](https://github.com/eaststarlee/Ionia-Agapi)
+> **팀 프로젝트** (완료)
+
+#### 🔫 [Gun Man](https://github.com/eaststarlee/GunMan)
+> **개인 프로젝트** (완료)
 ---
 
 ### 📞 Contact
